@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#ul-control-search {
+}
+.container-results {
+  position: absolute;
+  z-index: 100000;
+  margin-top: 2.5rem;
+  right: 24px;
+  top: 8px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
